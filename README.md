@@ -62,15 +62,9 @@ Designed for humans, not just users
 | Hosting  | Base44 Cloud        |
 
 ⚙️ Local Setup (Optional Extension)
----
-
-## ⚙️ Local Setup (Optional Extension)
-
-## ⚙️ Local Setup (Optional Extension)
 
 git clone https://github.com/your-username/luvello-love-sync.git
 cd luvello-love-sync
 npm install
 npm start
 
-JSDY
