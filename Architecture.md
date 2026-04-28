@@ -63,6 +63,7 @@ The system is based on a mutual sync mechanism:
 
 User A Input → Stored User B Input → Stored → Match Check → If Match → Reveal Result → If Not Match → Stay Hidden
 <hr style="height:4px; border:none; background-color:gray;">
+
 🧠 Design Philosophy
 -----------------------------------------------------------------
 
