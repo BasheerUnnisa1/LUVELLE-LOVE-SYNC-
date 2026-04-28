@@ -2,16 +2,20 @@
 --------------------------------------------------------
 
 Where feelings don’t need to be forced — they align.
-****************************************************8
+<hr style="height:4px; border:none; background-color:gray;">
+
 🌐 Live Experience
+--------------------------------------------------------
 
 ✨ Try it yourself: 👉 https://liberal-luvelle-love-sync.base44.app/
 
 🎥 Demo Walkthrough
+--------------------------------------------------------
 
 📹 Watch how it works: 👉 (https://drive.google.com/file/d/1zz4dHjwdWpKIhemfDJ-d-lczLpgKLG5v/view?usp=sharing)
 
 🌸 The Idea (Why this exists)
+--------------------------------------------------------
 
 Most relationship apps try to make you talk more. But real problem?
 
@@ -20,6 +24,7 @@ People hesitate. They overthink. They wait.
 Not because they don’t feel — but because they’re unsure if the other person feels the same.
 
 🧠 What Luvelle Does Differently
+--------------------------------------------------------
 
 Luvelle doesn’t push conversations. It creates a safe emotional checkpoint.
 
@@ -28,6 +33,7 @@ Luvelle doesn’t push conversations. It creates a safe emotional checkpoint.
 If not? Nothing awkward ever happens.
 
 🔥 Core Features
+--------------------------------------------------------
 
 💞 Mutual Emotion Sync
 
@@ -77,6 +83,7 @@ Requirements:
 * Modern browser
 
 🚧 The Problem
+--------------------------------------------------------
 
 * Fear of expressing feelings
 * Emotional timing mismatch
@@ -84,7 +91,7 @@ Requirements:
 * Lack of safe communication spaces
 
 💡 Our Solution
-
+--------------------------------------------------------
 A system where:
 
 * Expression is safe
@@ -93,10 +100,12 @@ A system where:
 Luvelle removes the risk from emotional honesty.
 
 🔮 Future Scope
+--------------------------------------------------------
 
 🚀 AI-based emotional insights 🎮 Couple mini-games 📊 Relationship analytics 🔔 Smart nudges (non-intrusive) 🌍 Multi-language support 💬 Deeper emotional tools
 
 👥 Team Velora
+--------------------------------------------------------
 
 ✨ Shaik Basheer Unnisa – Team Leader
 
@@ -105,6 +114,7 @@ Luvelle removes the risk from emotional honesty.
 ✨ Irfana Tabassum – Team Member
 
 💫 Final Thought
+--------------------------------------------------------
 
 Luvelle isn’t loud. It doesn’t force connection.
 
