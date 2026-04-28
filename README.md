@@ -1,9 +1,8 @@
 💖 Luvelle Love Sync
-_______________________________________________________-
-
-Where feelings don’t need to be forced — they align.
 --------------------------------------------------------
 
+Where feelings don’t need to be forced — they align.
+****************************************************8
 🌐 Live Experience
 
 ✨ Try it yourself: 👉 https://liberal-luvelle-love-sync.base44.app/
