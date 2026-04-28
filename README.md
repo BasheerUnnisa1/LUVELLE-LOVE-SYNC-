@@ -1,6 +1,8 @@
 💖 Luvelle Love Sync
+_______________________________________________________-
 
 Where feelings don’t need to be forced — they align.
+--------------------------------------------------------
 
 🌐 Live Experience
 
