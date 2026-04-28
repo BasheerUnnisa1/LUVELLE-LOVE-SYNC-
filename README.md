@@ -63,50 +63,8 @@ Designed for humans, not just users
 
 ⚙️ Local Setup (Optional Extension)
 
-## ⚙️ Local Setup (Optional Extension)
-
 ```bash
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
 npm install
 npm start
-Requirements:
-
-* Node.js
-* Modern browser
-* 
-🚧 The Problem
-
-* Fear of expressing feelings
-* Emotional timing mismatch
-* Overcomplicated apps
-* Lack of safe communication spaces
-
-💡 Our Solution
-
-A system where:
-
-* Expression is safe
-* Timing is natural
-* Rejection is invisible
-Luvelle removes the risk from emotional honesty.
-
-🔮 Future Scope
-
-🚀 AI-based emotional insights 🎮 Couple mini-games 📊 Relationship analytics 🔔 Smart nudges (non-intrusive) 🌍 Multi-language support 💬 Deeper emotional tools
-
-👥 Team Velora
-
-✨ Shaik Basheer Unnisa – Team Leader
-
-✨ Areeba Fatima – Team Member
-
-✨ Irfana Tabassum – Team Member
-
-💫 Final Thought
-
-Luvelle isn’t loud. It doesn’t force connection.
-
-It simply waits…
-
-until two hearts arrive at the same moment.
