@@ -54,19 +54,22 @@ Designed for humans, not just users
 
 🛠️ Tech Stack
 
-Layer	Technology
-Platform	Base44
-Frontend	AI-generated UI
-Backend	Built-in workflows
-Hosting	Base44 Cloud
+| Layer     | Technology         |
+|----------|---------------------|
+| Platform | Base44              |
+| Frontend | AI-generated UI     |
+| Backend  | Built-in workflows  |
+| Hosting  | Base44 Cloud        |
 
 ⚙️ Local Setup (Optional Extension)
 
-git clone https://github.com/your-username/luvelle-love-sync.git
-cd luvelle-love-sync
+## ⚙️ Local Setup (Optional Extension)
+
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
 npm install
 npm start
-
 Requirements:
 
 * Node.js
