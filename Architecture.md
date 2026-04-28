@@ -1,6 +1,7 @@
 🏗️ Architecture – Luvelle Love Sync
 -----------------------------------------------------------------
 Luvelle Love Sync is built using an AI-powered no-code architecture via Base44. The system focuses on privacy, simplicity, and emotional interaction design.
+<hr style="height:4px; border:none; background-color:gray;">
 
 🌐 High-Level Overview
 -----------------------------------------------------------------
