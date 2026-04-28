@@ -41,11 +41,11 @@ If not? Nothing awkward ever happens.
 
 💞 Mutual Emotion Sync
 
-Feelings are revealed only when both sides align
+> Feelings are revealed only when both sides align
 
 🔐 Private Expression Layer
 
-No fear of rejection, no pressure
+> No fear of rejection, no pressure
 
 🎨 Aesthetic Minimal UI
 
