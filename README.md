@@ -21,7 +21,7 @@ Where feelings don’t need to be forced — they align.
 
 Most relationship apps try to make you talk more. But real problem?
 
-People hesitate. They overthink. They wait.
+> People hesitate. They overthink. They wait.
 
 Not because they don’t feel — but because they’re unsure if the other person feels the same.
 <hr style="height:4px; border:none; background-color:gray;">
@@ -49,19 +49,19 @@ If not? Nothing awkward ever happens.
 
 🎨 Aesthetic Minimal UI
 
-Soft tones, calm design, distraction-free
+> Soft tones, calm design, distraction-free
 
 ⚡ Instant Sync Feedback
 
-No waiting, no confusion
+> No waiting, no confusion
 
 🧠 AI-powered Logic (Base44)
 
-Handles workflows intelligently
+> Handles workflows intelligently
 
 🌙 Emotion-first UX
 
-Designed for humans, not just users
+> Designed for humans, not just users
 <hr style="height:4px; border:none; background-color:gray;">
 
 🛠️ Tech Stack
@@ -104,7 +104,7 @@ A system where:
 * Expression is safe
 * Timing is natural
 * Rejection is invisible
-Luvelle removes the risk from emotional honesty.
+> Luvelle removes the risk from emotional honesty.
 <hr style="height:4px; border:none; background-color:gray;">
 
 🔮 Future Scope
@@ -129,6 +129,5 @@ Luvelle removes the risk from emotional honesty.
 Luvelle isn’t loud. It doesn’t force connection.
 
 It simply waits…
-
-   until two hearts arrive at the same moment.
+> until two hearts arrive at the same moment.
 
